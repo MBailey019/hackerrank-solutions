@@ -2,4 +2,8 @@
 
 This repository contains my solutions to various problems from [HackerRank.com](https://www.hackerrank.com).
 
-this is not a comprehensive list, but is intended to showcase my highest-scoring solutions. All of my work can be found on [my HackerRank profile](https://www.hackerrank.com/MBailey019)
+This is not a comprehensive list, but is intended to showcase my highest-scoring solutions. All of my work can be found on [my HackerRank profile](https://www.hackerrank.com/MBailey019)
+
+|                        Problem Area(s)                            |                                                              Challenge                                                              |                                                                                  Solution                                                                                 |  Score  |
+|:-----------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|
+|Sorting, Implementation                                            |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)                                                 |[solution.py](https://github.com/MBailey019/hackerrank-solutions/blob/master/bigger-is-greater/solution.py)                                                                |35/35    |
