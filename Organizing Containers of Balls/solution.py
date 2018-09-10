@@ -1,11 +1,6 @@
 #!/bin/python
 
-import math
 import os
-import random
-import re
-import sys
-
 
 def organizingContainers(container):
     num_of_types = []
